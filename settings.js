@@ -1,27 +1,27 @@
-const fs = require('fs')
+.const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50948181169"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
-global.ytname = "DRK_ST_Tech"
-global.socialm = "GitHub: DRK-S-TEN"
-global.location = "America/Port-au-Prince"
+global.ownernomer = "917005658594"
+global.ownername = "۝vAiPA۝"
+global.ytname = "ASTRO PLAYS"
+global.socialm = "GitHub: JRohluosangEditz"
+global.location = "India/Churachandpur"
 
-global.ownernumber = '50948181169'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
-global.botname = 'DRK_ST_BUG' //name of the bot
+global.ownernumber = '917005658594'  //creator number
+global.ownername = '۝vAiPA۝' //owner name
+global.botname = '۝vAiPA۝' //name of the bot
 
 //sticker details
-global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.packname = '🙄'
+global.author = '۝vAiPA۝'
 
 //console view/theme
-global.themeemoji = '🗾'
-global.wm = "𝙎-𝙏𝞢𝞜"
+global.themeemoji = '🌚'
+global.wm = "۝vAiPA۝"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
+global.link = ''
 
 //custom prefix
 global.prefa = ['']
@@ -33,7 +33,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //menu type 
